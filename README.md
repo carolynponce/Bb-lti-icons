@@ -2,6 +2,8 @@
 
 This repository contains images that can be used as icons for LTI placements within the Blackboard Learn environment.
 
+[Access the LTI Icon Repository](https://github.com/carolynponce/Bb-lti-icons)
+
 ## Notice
 
 The copyrights and trademarks for all images belong to their corporations and holding companies.
